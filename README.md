@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/TheSpeedX/TBomb"><img src="https://i.ibb.co/F4HBKqm/TBomb.png" alt="TBomb"></a>
+  <a href="https://github.com/izymadhav/Sms-bomb"><img src="https://ibb.co/cbGv3PT" alt="TBomb"></a>
   <br>
   TBomb v2.1b
   <br>
